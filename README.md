@@ -126,6 +126,9 @@ shapes with an even number of sides are grey, while those with an odd number of
 sides are blue. Once the new shape has been shown, the previous one is rendered
 invisible with the setVisible (false). If/else statements are used to guarantee that a
 condition is met (see Figure 18,19 and 21).
-![Screenshot 2022-10-15 at 14 25 26](https://user-images.githubusercontent.com/93612678/195989370-f2832e86-a391-4c81-b751-c490a285b865.png)
-![Screenshot 2022-10-15 at 14 25 55](https://user-images.githubusercontent.com/93612678/195989376-55aa74a6-e785-4815-ad36-a997d0656b57.png)
+
+![Screenshot 2022-10-15 at 14 25 26](https://user-images.githubusercontent.com/93612678/195989463-e8b1e331-605b-4e70-a40b-5c3e31ca17f0.png)
+
+![Screenshot 2022-10-15 at 14 25 55](https://user-images.githubusercontent.com/93612678/195989468-551a2755-ca64-4226-b73f-6872397031a0.png)
+
 
